@@ -12,7 +12,7 @@ int main()
 	std::ifstream input_file;
 	std::ofstream obj_file_handle;
 	
-	//Opening file
+	//Opening file 
 	input_file.open("CPP_Reference.txt");
 	obj_file_handle.open("memory.txt");
 	//Using file stream
