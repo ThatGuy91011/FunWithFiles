@@ -1,4 +1,4 @@
-Keywords >
+>
 asm - insert an assembly instruction >
 auto - declare a local variable >
 bool - declare a boolean variable >

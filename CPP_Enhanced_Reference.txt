@@ -1,4 +1,5 @@
-Keywords 
+Keywords Defined: 63
+
  asm - insert an assembly instruction 
  auto - declare a local variable 
  bool - declare a boolean variable 
@@ -63,7 +64,8 @@ Keywords
  wchar_t - declare a wide-character variable 
  while - looping construct 
  
- 
+ Reserved Keywords Defined: 11
+
  and - && 
  and_eq - &= 
  bitand - bitwise & 
